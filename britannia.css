@@ -1,0 +1,124 @@
+body{
+    margin: 0%;
+    overflow-x: hidden;
+}
+.container{
+    width: 100%;
+    height: 1162px;
+}
+.header{
+    /* background-image: linear-gradient(to right, #5bc4f1, #eb1c23); */
+    width: 100%;
+    height: 60px;
+}
+.head1{
+    float: left;
+    width: 15%;
+    height: 60px;
+    background-color: #5bc4f1;
+    
+}
+.head1_2{
+    background-image: url();
+    float: left;
+    width: 20%;
+    height: 60px;
+    background-image: linear-gradient(to right, #5bc4f1, #eb1c23);
+   
+}
+.head2{
+    display:flex ;
+    flex-direction: row;
+
+    float: left;
+    width: 65%;
+    height: 60px;
+    background-color: #eb1c23;
+    font-family: 'DINNextLTPro-Regular';
+    font-size: 10px;
+    gap: 35px;
+}
+.c1{
+    margin-top: 23px;
+    font-size: 13px;
+    color: white;
+}
+.c2{
+    width: 30px;
+    height: 30px;
+    margin-top: 12px;
+}
+.c3{
+    width: 35px;
+    height: 35px;
+    margin-top: 6px;
+
+}
+.britlogo{
+    float: left;
+    padding-left: 63px;
+
+
+}
+.logosun{
+    float: left;
+    padding-left: 0px;
+
+}
+.image1{
+
+    width: 100%;
+}
+.youtubevideo{
+    width: 100%;
+    height: 318px;
+    
+    margin-left: 305px;
+    margin-top: 25px;
+}
+.videos{
+    width: 250px;
+    height: 250px;
+    padding-left: 30px;
+    
+}
+.arrowbutton{
+    background-color: #eb1c23;
+    border: 0px;
+    width: 35px;
+    height: 35px;
+    margin-left: 85px;
+}
+.footer{
+    width: 100%;
+    height: 270px;
+    background-color: #00993f;
+    padding-left: 263px;
+    padding-top: 50px;
+}
+
+.list1{
+    float: left;
+    color: #b8da8a ;
+    font-family: 'DINNextLTPro-Regular';
+    padding-left: 32px;
+    list-style: none;
+    line-height: 27px;
+    font-size: 12px;
+    
+}
+.list2{
+    color: #b8da8a;
+    font-family: 'DINNextLTPro-Regular';
+    padding-left: 690px;
+    list-style: none;
+    line-height: 27px;
+    font-size: 12px;
+    padding-top: 150px;
+    
+}
+.social{
+    margin-top: 19px;
+    margin-left: 67px;
+}
+
